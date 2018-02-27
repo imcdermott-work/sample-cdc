@@ -1,8 +1,8 @@
-/.settings/
-/.classpath
-/.project
-/.idea
+*/.settings/
+*/.classpath
+*/.project
+*/.idea
 */target/*
-/temp/
-/bin/
-/*.iml
+*/temp/
+*/bin/
+
